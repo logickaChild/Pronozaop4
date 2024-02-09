@@ -66,10 +66,11 @@ h2{
 }
 
 img{ 
-    max-width: 100%;
+    max-width:90%;
         height: auto;
         display: block;
         margin: 0 auto;
+    brder-radius:14px;
 }
 
 ul{
