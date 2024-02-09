@@ -80,4 +80,10 @@ img{
 ul{
     margin-left:15px;
 }
+li{
+    background-color: #394a6d;
+    color: #fff;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;}
 
