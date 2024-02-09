@@ -55,7 +55,11 @@ header{
 h1,h2,p{
     margin-bottom: 15px;
 }
-
+h1 {
+    margin: 0 auto;
+    font-size:30px;
+    color:#394a6d;
+}
 h2{
     color: #333;
 }
