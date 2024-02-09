@@ -48,6 +48,8 @@ main{
 
 header{
     flex: 0 1;
+    color: white;
+    background-color: #394a6d;
 }
 
 h1,h2,p{
@@ -71,3 +73,5 @@ th {
     color: white;
     background-color: #394a6d;
 }
+.center{
+    text-align:center;
